@@ -4,27 +4,11 @@
   Caddelerde Rüzgar
 */
 
-int counter;
-
-int counter2;
-
-int counter3;
-
-int counter4;
-
-int counter5;
-
-int counter6;
-
-int counter7;
-
-int counter8;
-
+int counter, counter2, counter3, counter4, counter5, counter6, counter7, counter8;
 void setup()
 {
   pinMode(3, OUTPUT);
 }
-
 void loop()
 {
   // mi mi mi mi fa_ mi
